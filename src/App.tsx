@@ -367,7 +367,7 @@ export default function App() {
               <ul className="space-y-2 text-xs text-slate-600">
                 <li className="flex items-center gap-2">
                   <Phone className="w-3.5 h-3.5 text-emerald-600" />
-                  <span>+62 822-9382-7200</span>
+                  <span>+62 831-3408-6899</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <Mail className="w-3.5 h-3.5 text-blue-600" />
@@ -375,7 +375,7 @@ export default function App() {
                 </li>
                 <li className="pt-2">
                   <a
-                    href="https://wa.me/6282293827200"
+                    href="https://wa.me/6283134086899"
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl bg-emerald-50 text-emerald-700 border border-emerald-200 text-xs font-bold hover:bg-emerald-600 hover:text-white transition-all shadow-sm"
